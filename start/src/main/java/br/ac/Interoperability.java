@@ -1,10 +1,9 @@
+
 package br.ac;
 
 import java.io.IOException;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
-public class Foo {
+public class Interoperability {
 
     public static void main(String[] args) {
         TestInteroperability.max(1,2);

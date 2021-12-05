@@ -1,6 +1,6 @@
 @file:JvmName("TestInteroperability")
 
-package br.ac
+package br.ac.basic
 
 import java.io.IOException
 

@@ -4,16 +4,6 @@ fun String.lastChar() = this.get(this.length - 1)
 
 fun String.repeat(n: Int): String {
     return IntArray(n).map { this }.joinToString(separator = "")
-
-//    return IntStream.range(0, n)
-//        .mapToObj { this }
-//        .collect(Collectors.joining())
-
-//    val strb = StringBuilder(n * length)
-//    for (i in 1..n){
-//        strb.append(this)
-//    }
-//    return strb.toString()
 }
 
 fun infixSyntax() {
