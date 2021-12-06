@@ -1,6 +1,8 @@
 
 package br.ac;
 
+import br.ac.basic.TestInteroperability;
+
 import java.io.IOException;
 
 public class Interoperability {
