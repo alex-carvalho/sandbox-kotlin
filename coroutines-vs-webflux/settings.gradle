@@ -1,0 +1,4 @@
+rootProject.name = 'coroutines-vs-webflux'
+
+include 'kotlin-coroutines-with-webflux'
+include 'kotlin-with-webflux'
